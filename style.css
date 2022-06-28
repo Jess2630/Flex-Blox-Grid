@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+img{
+    max-width: 100%;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+.container{
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.entrada-blog a {
+    display: inline-block;
+    background-color: #2196f3;
+    color: white;
+}
+
+
+
+/* Editor */
+
